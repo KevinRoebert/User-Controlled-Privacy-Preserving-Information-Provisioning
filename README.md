@@ -1,2 +1,2 @@
-# User-Controlled-Privacy-Preserving-Information-Provisioning
-Artifacts for the "User-Controlled Privacy-Preserving Information Provisioning" paper
+# ** ** Information Provisioning
+Artifacts for the "** ** Information Provisioning" paper
